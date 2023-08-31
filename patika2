@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Kaan Kantar</h1>
+    <h3>About Me</h3>
+    I am a recent METU graduate with a background in architecture. Passionate about UX design and eager to learn more about the field. Interested in creating user-centered experiences that are both aesthetic and functional. Proficient in wireframing, prototyping, and usability testing. Skilled in conducting user research and identifying pain points for users. My architecture education background has given me a strong understanding of space, form, and detail, which are all essential skills for UX/UI design. I am an effective communicator who can clearly and concisely explain designs to stakeholders and users.
+    <h3>METU</h3>
+    <img src="https://www.metu.edu.tr/sites/all/themes/odtu/images/odtu-logo-en.svg" alt="METU logo" height="100" width="300">
+    <p>Middle East Technical University is a public technical university located in Ankara, Turkey. The university emphasizes research and education in engineering and natural sciences, offering about 41 undergraduate programs within 5 faculties, 105 masters and 70 doctorate programs within 5 graduate schools.</p>
+    <h3>My Interests</h3>
+    <h4>Favorite Films</h4>
+    <ul>
+        <li>Lord Of The Rings</li> <br>
+        <a href="https://www.imdb.com/title/tt0120737/">Visit the IMDB</a>
+        <li>12 Angry Men</li> <br>
+        <a href="https://www.imdb.com/title/tt0050083/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_12">Visit the  IMDB</a>
+        <li>Whiplash</li> <br>
+        <a href="https://www.imdb.com/title/tt2582802/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_whiplash">Visit the  IMDB</a>
+    </ul>
+    <h4>Favorite Series</h4>
+    <ul>
+        <li>Game of Thrones</li> 
+        <li>Rick and Morty</li> 
+        <a href=""></a>
+        <li>Doctor Who</li>
+    </ul>
+    <h4>Favorite Books</h4>
+    <ul>
+        <li>Harry Potter</li> <br>
+        <a href="https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince?from_search=true&from_srp=true&qid=6eLWH24JXl&rank=7">Visit the Goodreads</a>
+        <li>Dune</li>
+        <li>Les Miserables</li>
+    </ul>
+    <img src="" alt="">
+</body>
+</html>
